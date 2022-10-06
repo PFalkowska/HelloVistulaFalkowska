@@ -5,5 +5,7 @@ public class HelloWorldFalkowska {
         System.out.println("Hello Vistula Falkowska");
 
         System.out.println("Hello 1");
+
+        System.out.println("Hello 2");
     }
 }
